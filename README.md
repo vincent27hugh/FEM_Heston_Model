@@ -1,7 +1,7 @@
 # MA6621
 #This is the code for the final project of MA6621, CityU
-# Heston model 2.1.
-"2D European Call": 
+# Heston model 
+2.1."2D European Call": 
 
 Directly run the file "main_Call.m". One mesh plot and solution of European price will be generated. Adjust the parameter in "main_Call.m";
 
