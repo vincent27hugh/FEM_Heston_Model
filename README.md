@@ -1,4 +1,8 @@
-# Heston model 
+# The Finite Element Method for Option Pricing under Heston’s Model
+
+## Abstration
+
+Option is one of the most important derivatives in financial markets. Since for some complicated types of options there are no available analytical solutions, we are devoted to applying Finite Element Method (FEM) for option pricing problem in this report. First, we try to resolve the problem of plain vanilla option pricing with analysis of accuracy of FEM by comparing with the analytical solution. Further, in order to demonstrate advantages of the FEM, we take a deeper analysis and derive some equations under Heston’s model, which pushes forward the PDE formulation of the model into two- dimensional problem. Finally, we provide a set of examples for pricing European type option under Heston’s model, and associated numerical results to demonstrate the accuracy, convergence and efficiency.
 
 ## 2D European Call
 
