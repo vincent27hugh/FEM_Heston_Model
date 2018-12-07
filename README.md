@@ -11,8 +11,8 @@ Option is one of the most important derivatives in financial markets. Since for 
 * Waiting bars will show the phase of accomplishment of program;
 * When programs are done, a alerting sound will ring;
 
-![](EC_Hes_500.tif)
-![](EC_Hes_500_ver.tif)
+![](EC_Hes_500.jpg)
+![](EC_Hes_500_ver.jpg)
 
 
 ## 2D European Put
@@ -21,8 +21,8 @@ Option is one of the most important derivatives in financial markets. Since for 
 * Waiting bars will show the phase of accomplishment of program;
 * When programs are done, an alerting sound will ring;
 
-![](EP_H_500.tif)
-![](EP_H_500_ver.tif)
+![](EP_H_500.jpg)
+![](EP_H_500_ver.jpg)
 
 ## Mesh and Basis
 
