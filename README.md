@@ -17,10 +17,9 @@ Option is one of the most important derivatives in financial markets. Since for 
 
 ### 1D European Put
 
-![](1D_BS/European_Call/Figure3.1.jpg)
-![](1D_BS/European_Call/Figure3.3.jpg)
-![](1D_BS/European_Call/Figure3.2.jpg)
-
+![](1D_BS/European_Put/Figure3.jpg)
+![](1D_BS/European_Put/Figure1.jpg)
+![](1D_BS/European_Put/Figure2.jpg)
 
 ### 1D American Put
 
@@ -29,7 +28,7 @@ Option is one of the most important derivatives in financial markets. Since for 
 ![](1D_BS/American_Put/Figure3.6.jpg)
 
 
-## Heston's Model
+## [Heston's Model](https://en.wikipedia.org/wiki/Heston_model)
 
 ### 2D European Call 
 
